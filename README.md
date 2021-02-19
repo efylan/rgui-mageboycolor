@@ -1,9 +1,17 @@
 
 # Matilda colorscheme rgui theme
 
-4 available styles
+## Installation
+
+1. Copy the contents of matilda-rgui folder into .../retroarch/media/rgui, or place it where you deem convenient
+2. Open the retroarch main menu and go to the the ´´´Settings´´´ section. 
+3. Select the theme from the ´´´User Interface > Appearance > Custom Menu Theme Preset´´´ option in settings.
+4. Select Custom on the ´´´Menu Color Theme´´´ option in the same menu.
+
 
 ## Screenshots
+
+4 available styles
 
 * Matilda
 
