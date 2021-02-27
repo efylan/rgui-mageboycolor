@@ -1,9 +1,9 @@
 
-# Matilda colorscheme rgui theme
+# MageBoy Color colorscheme rgui theme
 
 ## Installation
 
-1. Copy the contents of matilda-rgui folder into .../retroarch/media/rgui, or place it where you deem convenient
+1. Copy the contents of rgui-mageboycolor folder into .../retroarch/media/rgui, or place it where you deem convenient
 2. Open the retroarch main menu and go to the the ´´´Settings´´´ section. 
 3. Select the theme from the ´´´User Interface > Appearance > Custom Menu Theme Preset´´´ option in settings.
 4. Select Custom on the ´´´Menu Color Theme´´´ option in the same menu.
@@ -11,20 +11,24 @@
 
 ## Screenshots
 
-4 available styles
+5 available styles
 
-* Matilda
+* MageBoy Color
 
-![Matilda Regular](/screenshot/matilda.png?raw=true "Matilda regular")
+![MageBoy Color Regular](/screenshot/mageboycolor.png?raw=true "MageBoy Color regular")
 
-* Matilda 2
+* MageBoy Color 2
 
-![Matilda Colored](/screenshot/matilda2.png?raw=true "Matilda colored")
+![MageBoy Color 2](/screenshot/mageboycolor2.png?raw=true "MageBoy Color 2")
 
-* Matilda 3
+* MageBoy Color 3
 
-![Matilda Panel](/screenshot/matilda3.png?raw=true "Matilda panel")
+![MageBoy Color 3](/screenshot/mageboycolor3.png?raw=true "MageBoy Color 3")
 
-* Matilda 4
+* MageBoy Color 4
 
-![Matilda Sleeve](/screenshot/matilda4.png?raw=true "Matilda sleeve")
+![MageBoy Color 4](/screenshot/mageboycolor4.png?raw=true "MageBoy Color 4")
+
+* MageBoy Color 5
+
+![MageBoy Color 5](/screenshot/mageboycolor5.png?raw=true "MageBoy Color 5")
